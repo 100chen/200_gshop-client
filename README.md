@@ -1,5 +1,4 @@
-# gshop-client-pre
-
+# gshop-client
 ## Project setup
 ```
 npm install
